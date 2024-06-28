@@ -454,5 +454,5 @@ nightly toolchain installed as well.
 | 2    | medium fast checks               | `./devtools/check_contracts_medium.sh` |
 | 3    | slower checks                    | `./devtools/check_contracts_full.sh`   |
 
-Dominat Address on Tron (Available for Trx, USDT, USDC)
-TA9HX4RDkrTvQzUNtpoUQKtY96MX8eD7uJ
+Dominat Address on Ethereum (Available for ETH, USDT, USDC)
+0x71fc48879eb0af0fb02037727f292c554530ec00
